@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=925EDB&fontColor=DEEAF7&height=200&section=header&text=ELICE&desc=Project%201&descAlignY=80&fontSize=90)
 # ELICE: Project 1
 
-Simple Mypage using HTML, CSS, JavaScript
+Simple profile page using HTML, CSS, JavaScript
 
 ---
 
